@@ -1,0 +1,1 @@
+tarsnap-keygen --keyfile /path/to/keyfile --user username@emaildomain.tld --machine <machine_name>
