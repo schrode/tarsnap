@@ -1,2 +1,2 @@
 # tarsnap
-tarsnap snippets &amp; scripts
+tarsnap snippets &amp; scripts for OpenBSD backups
